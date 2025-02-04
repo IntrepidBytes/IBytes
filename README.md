@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @IntrepidBytes
+- 👋 Hi, I’m IntrepidBytes
 - 👀 I’m interested in AI Technologies!
 - 🌱 I’m currently learning about AI!
 - 💞️ I’m looking to collaborate in the future😉
-- 📫 How to reach me magerb@gmail.com
+- 📫 How to reach me intrepidbytes@proton.me
 
 <!---
 IntrepidBytes/IBytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
